@@ -1,5 +1,5 @@
-//acwing1459Е╔╤Г┴⌡Д╫⌠Ф⌠█
-//Ф· Д╦╬
+//acwing1459длеёлЕ╡ы 
+//ц╤╬ы 
 #include<iostream>
 #include<cstring>
 #include<algorithm>

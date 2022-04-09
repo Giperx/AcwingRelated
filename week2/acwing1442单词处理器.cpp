@@ -29,7 +29,7 @@ int main(){
 	return 0;
 }
 
-#else //尝试 通过
+#else //尝试通过 
 char c[100];
 int n, k;
 
