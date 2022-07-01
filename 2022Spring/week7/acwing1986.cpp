@@ -45,6 +45,7 @@ bool check(){
 
 int main()
 {
+    cout << '1' << endl;
     cin >> n;
     cin >> q[n + 1].x >> q[n + 1].y;
 
