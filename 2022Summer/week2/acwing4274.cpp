@@ -23,9 +23,10 @@ void dfs(int u){
         dfs(r[u]);
         cout << v[u];
     }
-    else{
-        dfs(r[u]);
+    else{ //负号-只有右孩子，后序遍历要先输出负号- 再遍历右孩子
         cout << v[u];
+        dfs(r[u]);
+
     }
     cout << ')';
 }
@@ -44,6 +45,6 @@ int main(){
         if (!st[i]) root = i;
     }
 
-    dfs(i);
+    dfs(root);
     return 0;
 }
