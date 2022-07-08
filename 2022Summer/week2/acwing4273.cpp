@@ -6,7 +6,7 @@
 #include <iostream>
 #include <cstdio>
 #include <cstring>
-#include <algorithm>
+#include <algorithm>s
 #include <vector>
 #define x first
 #define y second
