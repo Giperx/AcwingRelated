@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.22)
 
-project(AcwingOneDay)
+project(AcwingRelated)
 
 set(CMAKE_CXX_STANDARD 14)
 
-include_directories(AcwingOneDay)
+include_directories(AcwingRelated)
 
 add_executable(Acwing 2022Spring/week7/acwing1986.cpp)
 add_executable(693 2022Summer/week4/acwing693.cpp)
