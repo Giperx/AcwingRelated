@@ -1,4 +1,4 @@
-# AcwingReated
+# AcwingRelated
 
 Acwing2022Spring春季每日一题。
 
